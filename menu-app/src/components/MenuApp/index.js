@@ -7,12 +7,19 @@ const MenuApp = () => {
         menuName="Dinner"
         menuItems={[
           {
-            itemId: 1,
+            itemId: 10,
             itemPrice: "12",
             itemName: "Lasagne",
             itemDescription:
               "Meat and cheese layered between house-made pasta with bell peppers and onions.",
           },
+          {
+         itemId: 20,
+          itemPrice: "10",
+          itemName: "Cheese Ravioli",
+          itemDescription: "Cheese-filled ravioli served with house red sauce.",
+          
+          }
         ]}
       ></Menu>
     </div>
