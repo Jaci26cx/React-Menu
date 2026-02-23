@@ -1,5 +1,7 @@
 import React from "react"
 
+//mapping the array here to try to get one item to display as jsx, is not working I got lost here I won't lie
+
 const MenuItem = ({items}) => {
 return(
        <div>
